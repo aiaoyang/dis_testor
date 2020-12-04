@@ -1,0 +1,8 @@
+userName: ""
+password: ""
+domain: ""
+projectId: ""
+disUrl: ""
+huaweiDisConf:
+  streamName: ""
+  streamId: ""
